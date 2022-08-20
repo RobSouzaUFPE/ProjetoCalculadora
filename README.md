@@ -1,4 +1,4 @@
-!C:\Users\PC\Desktop\calculadora\img\logotipo-reprograma.png)
+!(C:\Users\PC\Desktop\calculadora\img\logotipo-reprograma.png)
 
 # DESAFIO CALCULADORA
 
